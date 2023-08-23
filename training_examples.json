@@ -1,0 +1,971 @@
+[
+    {
+        "name": "Aisha Kaur",
+        "handle": "AishaKDelhi",
+        "age": 28,
+        "hobbies": [
+            "dance",
+            "photography",
+            "traveling"
+        ],
+        "email": "aishakaur28@outlook.com",
+        "bio": "Dance enthusiast and budding photographer. Exploring the world one step at a time.",
+        "location": "Delhi, India",
+        "is_blue_badge": false,
+        "joined": "2017-06-21",
+        "gender": "female",
+        "appearance": "South Asian, long black hair, hazel eyes, 5'5\"",
+        "avatar_prompt": "Photorealistic image of a South Asian woman with long black hair and hazel eyes, adorned with traditional Indian jewelry, smiling against a backdrop of Delhi's historical monuments. Use a Sony Alpha with a 50mm lens at F1.8 aperture setting.",
+        "banner_prompt": "High-resolution photo showcasing traditional Indian dance forms with colorful costumes and jewelry. Nikon DSLR."
+    },
+    {
+        "name": "Carlos Mendez",
+        "handle": "CarMendezArt",
+        "age": 34,
+        "hobbies": [
+            "painting",
+            "surfing",
+            "hiking"
+        ],
+        "email": "mendez.carlos@zmail.com",
+        "bio": "Abstract artist inspired by the waves of the ocean. Lover of nature and the great outdoors.",
+        "location": "Lima, Peru",
+        "is_blue_badge": true,
+        "joined": "2014-03-11",
+        "gender": "male",
+        "appearance": "Latino, short curly hair, green eyes, tattoos, 5'9\"",
+        "avatar_prompt": "Photorealistic image of a Latino man with green eyes, short curly hair, and arm tattoos. Use a Nikon Z6 with a 70mm lens in a studio setting with neutral lighting.",
+        "banner_prompt": "High-resolution image of a vast landscape showcasing Peruvian beaches with waves suitable for surfing, and an abstract painting in the foreground. Canon EOS."
+    },
+    {
+        "name": "Emeka Okafor",
+        "handle": "NaijaEmeka",
+        "age": 40,
+        "hobbies": [
+            "writing",
+            "soccer",
+            "history"
+        ],
+        "email": "emeka.okafor@naijamail.ng",
+        "bio": "Historian by day, novelist by night. Passionate about Nigeria's past and future. Die-hard soccer fan.",
+        "location": "Lagos, Nigeria",
+        "is_blue_badge": false,
+        "joined": "2010-05-29",
+        "gender": "male",
+        "appearance": "West African, bald, dark brown eyes, beard, 6'2\"",
+        "avatar_prompt": "Photorealistic image of a tall West African man with a proud stance, wearing traditional Nigerian attire. Background should be the Lagos skyline. Use a Canon EOS 5D with a 60mm lens.",
+        "banner_prompt": "High-resolution image of a busy Nigerian market scene juxtaposed with a soccer match in action. Sony A7R."
+    },
+    {
+        "name": "Rika Tanaka",
+        "handle": "RikaOrigami",
+        "age": 27,
+        "hobbies": [
+            "origami",
+            "karaoke",
+            "anime"
+        ],
+        "email": "rika.tanaka@email.jp",
+        "bio": "Origami master with a soft spot for anime soundtracks. Karaoke weekends are sacred.",
+        "location": "Kyoto, Japan",
+        "is_blue_badge": true,
+        "joined": "2018-11-03",
+        "gender": "female",
+        "appearance": "East Asian, long straight black hair, glasses, 5'4\"",
+        "avatar_prompt": "Photorealistic image of a young Japanese woman surrounded by intricate origami creations, with Kyoto's temples in the background. Use a Fujifilm X-T4 with a 56mm lens.",
+        "banner_prompt": "High-resolution image of an anime-themed karaoke room filled with iconic origami designs and Kyoto's scenery as an overlay. Nikon D850."
+    },
+    {
+        "name": "Sasha Ivanov",
+        "handle": "SashaSki",
+        "age": 31,
+        "hobbies": [
+            "skiing",
+            "piano",
+            "cooking"
+        ],
+        "email": "ivanov.sasha@mail.ru",
+        "bio": "Winter sports enthusiast and classical pianist. Creating magic in the kitchen and on the slopes.",
+        "location": "Moscow, Russia",
+        "is_blue_badge": false,
+        "joined": "2015-02-12",
+        "gender": "male",
+        "appearance": "Caucasian, short blond hair, blue eyes, 6'1\"",
+        "avatar_prompt": "Photorealistic image of a man standing in the snow with skiing gear, Moscow's landmarks subtly in the background. Use a Nikon Z7 with an 85mm lens.",
+        "banner_prompt": "High-resolution image of a snowy landscape, a grand piano, and Russian cuisine spread. Sony A9."
+    },
+    {
+        "name": "Laila Al-Harbi",
+        "handle": "LailaDesertRose",
+        "age": 29,
+        "hobbies": [
+            "astronomy",
+            "poetry",
+            "archery"
+        ],
+        "email": "laila.harbi@middleeast.net",
+        "bio": "Stargazer and poetess. Finding beauty in the vastness of the universe and the intricacies of the written word.",
+        "location": "Riyadh, Saudi Arabia",
+        "is_blue_badge": true,
+        "joined": "2016-04-15",
+        "gender": "female",
+        "appearance": "Middle Eastern, hijab, dark brown eyes, 5'6\"",
+        "avatar_prompt": "Photorealistic image of a Middle Eastern woman wearing a hijab, with a telescope and desert starscape behind her. Use a Hasselblad X1D with a 90mm lens.",
+        "banner_prompt": "High-resolution image capturing the essence of Saudi architecture, a quiver with arrows, and ancient Arabic manuscripts. Canon EOS R5."
+    },
+    {
+        "name": "Chen Wei",
+        "handle": "ChenExplorer",
+        "age": 33,
+        "hobbies": [
+            "rock climbing",
+            "documentary filming",
+            "tea tasting"
+        ],
+        "email": "chenwei.explore@asia.com",
+        "bio": "Scaling heights and diving into stories of everyday heroes. In between, I savor the world's finest teas.",
+        "location": "Beijing, China",
+        "is_blue_badge": true,
+        "joined": "2014-08-20",
+        "gender": "male",
+        "appearance": "East Asian, buzz-cut black hair, spectacles, 5'8\"",
+        "avatar_prompt": "Photorealistic image of an East Asian man with climbing gear against the backdrop of the Great Wall. Use a Leica M10 with a 35mm lens.",
+        "banner_prompt": "High-resolution montage of a rock climbing adventure, tea leaves in steep, and snippets from heartwarming documentaries. Sony A6400."
+    },
+    {
+        "name": "Eva Nyberg",
+        "handle": "NordicEva",
+        "age": 38,
+        "hobbies": [
+            "knitting",
+            "cycling",
+            "marine biology"
+        ],
+        "email": "eva.nyberg@scandimail.dk",
+        "bio": "From the land of fjords and fairy tales. Knitting stories and exploring the marine wonders.",
+        "location": "Copenhagen, Denmark",
+        "is_blue_badge": false,
+        "joined": "2013-11-03",
+        "gender": "female",
+        "appearance": "Caucasian, long blonde hair, blue-green eyes, 5'7\"",
+        "avatar_prompt": "Photorealistic image of a Nordic woman with a basket of yarn, with Copenhagen’s canals in the background. Use a Panasonic Lumix S1R with a 50mm lens.",
+        "banner_prompt": "High-resolution depiction of a Danish coastal line, vibrant marine life, and colorful knitwear. Nikon Z50."
+    },
+    {
+        "name": "Josiah Mutua",
+        "handle": "AfricanBeats",
+        "age": 26,
+        "hobbies": [
+            "drumming",
+            "wildlife photography",
+            "farming"
+        ],
+        "email": "mutua.josiah@afrimail.ke",
+        "bio": "Beating rhythms of the heartland, capturing nature's pulse, and nurturing the earth.",
+        "location": "Nairobi, Kenya",
+        "is_blue_badge": true,
+        "joined": "2019-05-22",
+        "gender": "male",
+        "appearance": "East African, short cropped hair, deep-set eyes, 5'11\"",
+        "avatar_prompt": "Photorealistic image of an East African man holding traditional drums, with Nairobi's skyline silhouetted in the twilight. Use an Olympus OM-D E-M1 Mark III with a 42mm lens.",
+        "banner_prompt": "High-resolution landscape of the Kenyan savannah, close-ups of native wildlife, and fertile farmlands. Canon EOS M50."
+    },
+    {
+        "name": "Amara Bello",
+        "handle": "AmaraCarnival",
+        "age": 30,
+        "hobbies": [
+            "dancing",
+            "carnival design",
+            "beach volleyball"
+        ],
+        "email": "amara.b@caribbean.net",
+        "bio": "Caribbean soul dancing to life's rhythm. Crafting carnival magic and spiking through sandy courts.",
+        "location": "Port of Spain, Trinidad and Tobago",
+        "is_blue_badge": false,
+        "joined": "2017-03-01",
+        "gender": "female",
+        "appearance": "Afro-Caribbean, curly hair tied up, hazel eyes, 5'9\"",
+        "avatar_prompt": "Photorealistic image of an Afro-Caribbean woman adorned in vibrant carnival attire, the Caribbean sea shimmering behind her. Use a Pentax KP with a 55mm lens.",
+        "banner_prompt": "High-resolution blend of the Trinidad carnival, beach volleyball matches, and the island's stunning coastline. Fuji X-Pro3."
+    },
+    {
+        "name": "Aditi Patil",
+        "handle": "MumbaiMystic",
+        "age": 34,
+        "hobbies": [
+            "meditation",
+            "classical dance",
+            "astrology"
+        ],
+        "email": "aditi.p@mumbaimail.in",
+        "bio": "Dancer of ancient rhythms, seeker of cosmic truths. Join me in exploring inner realms and outer spaces.",
+        "location": "Mumbai, India",
+        "is_blue_badge": false,
+        "joined": "2012-09-12",
+        "gender": "female",
+        "appearance": "South Asian, long wavy black hair, brown eyes, 5'5\"",
+        "avatar_prompt": "Photorealistic image of a South Asian woman in traditional dance attire, with Mumbai's historic architecture softly glowing in the backdrop. Use a Nikon D780 with a 45mm lens.",
+        "banner_prompt": "High-resolution collage of classical Indian dance forms, astrological symbols, and serene meditation spaces. Sony A7 III."
+    },
+    {
+        "name": "Miguel Álvarez",
+        "handle": "AndeanAventura",
+        "age": 28,
+        "hobbies": [
+            "mountaineering",
+            "flute playing",
+            "archeology"
+        ],
+        "email": "miguel.alvarez@andesmail.pe",
+        "bio": "Scaling peaks and delving into the Incan past. Echoing the sounds of the Andes.",
+        "location": "Cusco, Peru",
+        "is_blue_badge": true,
+        "joined": "2016-03-20",
+        "gender": "male",
+        "appearance": "Latino, short dark hair, stubble, tan skin, 5'8\"",
+        "avatar_prompt": "Photorealistic image of a Latino man against the backdrop of Machu Picchu, playing a traditional Andean flute. Use a Fujifilm GFX 50R with a 63mm lens.",
+        "banner_prompt": "High-resolution imagery of towering Andean mountains, ancient Incan relics, and vibrant Peruvian culture. Leica SL2."
+    },
+    {
+        "name": "Aisha Al-Sabah",
+        "handle": "DesertDiva",
+        "age": 36,
+        "hobbies": [
+            "equestrian",
+            "painting",
+            "falconry"
+        ],
+        "email": "aisha.sabah@arabmail.kw",
+        "bio": "From the dunes of Kuwait, I ride, paint, and soar with the falcons. Celebrating the beauty of the Arabian sands.",
+        "location": "Kuwait City, Kuwait",
+        "is_blue_badge": false,
+        "joined": "2015-07-01",
+        "gender": "female",
+        "appearance": "Middle Eastern, hijab, dark kohl-lined eyes, 5'6\"",
+        "avatar_prompt": "Photorealistic image of a Middle Eastern woman on horseback, with a falcon perched on her arm, set against the golden desert sands. Use a Canon EOS-1D X Mark III with a 70mm lens.",
+        "banner_prompt": "High-resolution vistas of the Kuwaiti desert, Arabian horses, intricate paintings, and majestic falcons in flight. Panasonic Lumix GH5 II."
+    },
+    {
+        "name": "Mateo García",
+        "handle": "FlamencoSoul",
+        "age": 29,
+        "hobbies": [
+            "flamenco guitar",
+            "wine tasting",
+            "historical fiction"
+        ],
+        "email": "mateo.garcia@spanmail.es",
+        "bio": "Strumming tales of old Spain, savoring its vintage, and breathing life to history in every note.",
+        "location": "Seville, Spain",
+        "is_blue_badge": true,
+        "joined": "2018-11-15",
+        "gender": "male",
+        "appearance": "Caucasian, dark curly hair, green eyes, 5'10\"",
+        "avatar_prompt": "Photorealistic image of a man playing flamenco guitar amidst the scenic streets of Seville, with the Alcazar as a backdrop. Use a Ricoh GR III with a 28mm lens.",
+        "banner_prompt": "High-resolution montage of passionate flamenco dances, historic Spanish landmarks, and wine-filled bodegas. Olympus PEN-F."
+    },
+    {
+        "name": "Oluchi Onyeka",
+        "handle": "NaijaNarrator",
+        "age": 27,
+        "hobbies": [
+            "poetry",
+            "afrobeat dancing",
+            "community service"
+        ],
+        "email": "oluchi.onyeka@naijmail.ng",
+        "bio": "Weaving tales of the Nigerian heartland, moving to Afrobeats' rhythm, and lifting up communities one project at a time.",
+        "location": "Lagos, Nigeria",
+        "is_blue_badge": true,
+        "joined": "2015-02-10",
+        "gender": "female",
+        "appearance": "West African, braided hair, amber eyes, 5'7\"",
+        "avatar_prompt": "Photorealistic image of a West African woman amidst Lagos' vibrant streets, with colorful murals in the backdrop. Use a Sony Alpha A6600 with a 35mm lens.",
+        "banner_prompt": "High-resolution collage of Lagos' skyline, energetic dance scenes, and community-driven projects. Nikon Z6 II."
+    },
+    {
+        "name": "Elias Nordin",
+        "handle": "NordicNomad",
+        "age": 35,
+        "hobbies": [
+            "cross-country skiing",
+            "photography",
+            "sustainability"
+        ],
+        "email": "elias.n@nordmail.se",
+        "bio": "Gliding across Sweden's snowy plains, capturing nature's marvels, and advocating for a greener tomorrow.",
+        "location": "Stockholm, Sweden",
+        "is_blue_badge": false,
+        "joined": "2014-12-05",
+        "gender": "male",
+        "appearance": "Caucasian, short blonde hair, blue eyes, 6'2\"",
+        "avatar_prompt": "Photorealistic image of a man in winter gear with skis, Northern Lights shimmering in the sky behind him. Use a Canon EOS R5 with a 50mm lens.",
+        "banner_prompt": "High-resolution imagery of Sweden's snowy landscapes, eco-friendly initiatives, and the serenity of Nordic life. Lumix S5."
+    },
+    {
+        "name": "Kalyani Deshmukh",
+        "handle": "MarathiMaven",
+        "age": 31,
+        "hobbies": [
+            "classical music",
+            "culinary arts",
+            "birdwatching"
+        ],
+        "email": "kalyani.desh@indimail.in",
+        "bio": "Singing timeless ragas, mastering Maharashtrian recipes, and birdwatching in the Western Ghats.",
+        "location": "Pune, India",
+        "is_blue_badge": false,
+        "joined": "2019-06-20",
+        "gender": "female",
+        "appearance": "South Asian, long straight black hair, brown eyes, 5'4\"",
+        "avatar_prompt": "Photorealistic image of a South Asian woman in traditional saree, with Pune's historic forts softly looming in the backdrop. Use a Fujifilm X-T4 with a 56mm lens.",
+        "banner_prompt": "High-resolution montage of Pune's cultural highlights, detailed cuisines, and the myriad birds of Maharashtra. Sony A9 II."
+    },
+    {
+        "name": "Tomasz Nowak",
+        "handle": "PolishPioneer",
+        "age": 29,
+        "hobbies": [
+            "astronomy",
+            "hiking",
+            "folk music"
+        ],
+        "email": "tomasz.nowak@polmail.pl",
+        "bio": "Stargazing from Poland's peaks, trekking through Tatra Mountains, and humming traditional tunes.",
+        "location": "Krakow, Poland",
+        "is_blue_badge": true,
+        "joined": "2018-05-01",
+        "gender": "male",
+        "appearance": "Caucasian, brown hair, hazel eyes, 5'11\"",
+        "avatar_prompt": "Photorealistic image of a man with a telescope, with Krakow's historic skyline twinkling in the evening light. Use a Nikon D850 with a 40mm lens.",
+        "banner_prompt": "High-resolution glimpses of Poland's majestic landscapes, night skies, and heartwarming folk scenes. Olympus OM-D E-M1X."
+    },
+    {
+        "name": "Phan Thi Linh",
+        "handle": "HanoiHarmonies",
+        "age": 26,
+        "hobbies": [
+            "traditional Vietnamese music",
+            "calligraphy",
+            "tea ceremonies"
+        ],
+        "email": "linh.phan@vietmail.vn",
+        "bio": "Reviving Vietnam's musical legacy, painting history with every brushstroke, and cherishing the ritual of tea.",
+        "location": "Hanoi, Vietnam",
+        "is_blue_badge": false,
+        "joined": "2017-08-23",
+        "gender": "female",
+        "appearance": "East Asian, long straight black hair, almond eyes, 5'3\"",
+        "avatar_prompt": "Photorealistic image of an East Asian woman playing a traditional Vietnamese instrument with Hanoi's iconic pagodas in the background. Use a Pentax KP with a 58mm lens.",
+        "banner_prompt": "High-resolution display of Hanoi's vibrant streets, intricate calligraphy art, and serene tea ceremonies. Nikon Z7 II."
+    },
+    {
+        "name": "Jermaine Brown",
+        "handle": "JazzinJamaica",
+        "age": 32,
+        "hobbies": [
+            "saxophone",
+            "beach volleyball",
+            "reggae music"
+        ],
+        "email": "jermaine.brown@jamjam.jm",
+        "bio": "Blowing the sax on sun-kissed beaches, spiking to reggae beats, and cherishing Jamaica's rhythm.",
+        "location": "Kingston, Jamaica",
+        "is_blue_badge": true,
+        "joined": "2014-01-15",
+        "gender": "male",
+        "appearance": "Afro-Caribbean, short-cropped hair, beard, 6'0\"",
+        "avatar_prompt": "Photorealistic image of an Afro-Caribbean man playing the saxophone on a vibrant Jamaican beach during sunset. Use a Leica M10-R with a 50mm lens.",
+        "banner_prompt": "High-resolution panorama of Kingston's energetic streets, golden beaches, and lively music scenes. Fuji GFX 100."
+    },
+    {
+        "name": "Daria Ivanova",
+        "handle": "SiberianSketches",
+        "age": 29,
+        "hobbies": [
+            "snow sculpting",
+            "ice fishing",
+            "documentary filmmaking"
+        ],
+        "email": "daria.ivanova@sibmail.ru",
+        "bio": "Carving tales from Siberian snow, fishing in frozen lakes, and capturing Russia's heart through my lens.",
+        "location": "Irkutsk, Russia",
+        "is_blue_badge": false,
+        "joined": "2019-02-20",
+        "gender": "female",
+        "appearance": "Caucasian, long blonde hair, blue eyes, 5'7\"",
+        "avatar_prompt": "Photorealistic image of a Caucasian woman amidst a vast Siberian landscape, holding a snow sculpture tool. Use a Sony Alpha 1 with a 55mm lens.",
+        "banner_prompt": "High-resolution vistas of Siberia's frozen beauty, bustling cities, and glimpses of traditional life. Lumix S1R."
+    },
+    {
+        "name": "Ayub Elmi",
+        "handle": "SomaliSunrise",
+        "age": 31,
+        "hobbies": [
+            "desert photography",
+            "oral storytelling",
+            "camel racing"
+        ],
+        "email": "ayub.elmi@sommail.so",
+        "bio": "Capturing Somalia's dunes and tales, narrating legends passed down generations, and racing with the desert winds.",
+        "location": "Mogadishu, Somalia",
+        "is_blue_badge": true,
+        "joined": "2018-06-10",
+        "gender": "male",
+        "appearance": "East African, bald, goatee, 6'1\"",
+        "avatar_prompt": "Photorealistic image of an East African man standing atop a sand dune with Mogadishu's skyline on the horizon. Use a Canon EOS R6 with a 40mm lens.",
+        "banner_prompt": "High-resolution imagery of Somalia's vast deserts, bustling bazaars, and thrilling camel races. Olympus OM-D E-M5 Mark III."
+    },
+    {
+        "name": "Rosa González",
+        "handle": "AndeanAdventures",
+        "age": 28,
+        "hobbies": [
+            "mountain climbing",
+            "flamenco guitar",
+            "textile weaving"
+        ],
+        "email": "rosa.gonzalez@perumail.pe",
+        "bio": "Scaling Peru's peaks, strumming Andean melodies, and weaving stories from the highlands.",
+        "location": "Cusco, Peru",
+        "is_blue_badge": false,
+        "joined": "2016-03-18",
+        "gender": "female",
+        "appearance": "Hispanic, shoulder-length wavy brown hair, green eyes, 5'5\"",
+        "avatar_prompt": "Photorealistic image of a Hispanic woman with Machu Picchu in the backdrop, holding a flamenco guitar. Use a Leica Q2 with a 28mm lens.",
+        "banner_prompt": "High-resolution amalgamation of Peru's mountainous terrains, cultural dances, and traditional textiles. Ricoh GR IIIx."
+    },
+    {
+        "name": "Hiroto Tanaka",
+        "handle": "TokyoTechie",
+        "age": 34,
+        "hobbies": [
+            "robotics",
+            "anime drawing",
+            "karaoke"
+        ],
+        "email": "hiroto.tanaka@nipponmail.jp",
+        "bio": "Building bots by day, sketching heroes by night, and belting J-Pop anthems on weekends.",
+        "location": "Tokyo, Japan",
+        "is_blue_badge": true,
+        "joined": "2015-09-05",
+        "gender": "male",
+        "appearance": "East Asian, short spiky black hair, brown eyes, 5'8\"",
+        "avatar_prompt": "Photorealistic image of an East Asian man amidst Tokyo's neon lights, holding a sketchbook with manga drawings. Use a Nikon Z9 with a 45mm lens.",
+        "banner_prompt": "High-resolution collage of Tokyo's skyscrapers, animated characters, and vibrant karaoke bars. Fujifilm GFX50S II."
+    },
+    {
+        "name": "Aria Nouri",
+        "handle": "PersianPoetry",
+        "age": 30,
+        "hobbies": [
+            "Farsi poetry",
+            "mosaic art",
+            "historical research"
+        ],
+        "email": "aria.nouri@iranmail.ir",
+        "bio": "Crafting verses from ancient Persia, restoring historic mosaics, and diving deep into the tales of the Silk Road.",
+        "location": "Isfahan, Iran",
+        "is_blue_badge": false,
+        "joined": "2018-04-22",
+        "gender": "female",
+        "appearance": "West Asian, long curly dark hair, hazel eyes, 5'6\"",
+        "avatar_prompt": "Photorealistic image of a West Asian woman with Isfahan's iconic bridges in the background, holding a poetry book. Use a Sony RX1R II with a 35mm lens.",
+        "banner_prompt": "High-resolution array of Iran's architectural wonders, intricate mosaics, and pages of historic poetry. Panasonic Lumix GH6."
+    },
+    {
+        "name": "Liam O'Reilly",
+        "handle": "CelticComposer",
+        "age": 33,
+        "hobbies": [
+            "Celtic harp",
+            "folklore storytelling",
+            "whiskey tasting"
+        ],
+        "email": "liam.oreilly@iremail.ie",
+        "bio": "Strumming ancient Celtic tunes, narrating tales of faeries and leprechauns, and savoring Ireland's finest spirits.",
+        "location": "Dublin, Ireland",
+        "is_blue_badge": true,
+        "joined": "2017-03-17",
+        "gender": "male",
+        "appearance": "Caucasian, red hair, freckles, blue eyes, 5'10\"",
+        "avatar_prompt": "Photorealistic image of a redhead man with Dublin's historic pubs as a backdrop, playing a Celtic harp. Use a Sigma fp L with a 50mm lens.",
+        "banner_prompt": "High-resolution tableau of Ireland's green landscapes, mythical creatures, and whiskey glasses. Canon EOS-1D X Mark III."
+    },
+    {
+        "name": "Bontle Moagi",
+        "handle": "KalahariCrafts",
+        "age": 27,
+        "hobbies": [
+            "beadwork",
+            "wildlife photography",
+            "bush walks"
+        ],
+        "email": "bontle.moagi@bwmmail.bw",
+        "bio": "Preserving Botswana's artistry in beads, capturing the majesty of our wildlife, and wandering the soulful Kalahari.",
+        "location": "Gaborone, Botswana",
+        "is_blue_badge": false,
+        "joined": "2020-10-12",
+        "gender": "female",
+        "appearance": "Southern African, braided black hair, brown eyes, 5'5\"",
+        "avatar_prompt": "Photorealistic image of a Southern African woman wearing intricate beadwork, with the Kalahari's vastness behind her. Use a Hasselblad X1D II with a 65mm lens.",
+        "banner_prompt": "High-resolution blend of Botswana's wild landscapes, close-ups of bead crafts, and stunning wildlife. Leica SL2-S."
+    },
+    {
+        "name": "Priyanka Khanna",
+        "handle": "BollywoodBeats",
+        "age": 29,
+        "hobbies": [
+            "Bollywood dance",
+            "spice gardening",
+            "yoga"
+        ],
+        "email": "priyanka.khanna@indmail.in",
+        "bio": "Dancing to Bollywood's rhythm, cultivating India's aromatic spices, and seeking balance with yoga.",
+        "location": "Mumbai, India",
+        "is_blue_badge": true,
+        "joined": "2017-05-20",
+        "gender": "female",
+        "appearance": "South Asian, long black hair, brown eyes, 5'4\"",
+        "avatar_prompt": "Photorealistic image of a South Asian woman dancing with Mumbai's skyline in the backdrop. Use a Canon EOS R5 with a 60mm lens.",
+        "banner_prompt": "High-resolution depiction of Mumbai's lively streets, a garden with spices, and serene yoga poses. Hasselblad X1D II."
+    },
+    {
+        "name": "Samuel Nkosi",
+        "handle": "SafariSam",
+        "age": 37,
+        "hobbies": [
+            "wildlife photography",
+            "hiking",
+            "local cuisine cooking"
+        ],
+        "email": "samuel.nkosi@safrimail.co.za",
+        "bio": "Capturing Africa's majestic wildlife, trekking the Drakensberg, and savoring South African flavors.",
+        "location": "Johannesburg, South Africa",
+        "is_blue_badge": true,
+        "joined": "2015-12-10",
+        "gender": "male",
+        "appearance": "African, shaved head, beard, 6'2\"",
+        "avatar_prompt": "Photorealistic image of an African man with a camera, wildlife in the Savanna as a backdrop. Use a Nikon D850 with a 70mm lens.",
+        "banner_prompt": "High-resolution panorama of South Africa's vast landscapes, vibrant cities, and delicious dishes. Sony Alpha 7 IV."
+    },
+    {
+        "name": "Katja Schmidt",
+        "handle": "BerlinBeats",
+        "age": 31,
+        "hobbies": [
+            "electronic music production",
+            "graffiti art",
+            "urban cycling"
+        ],
+        "email": "katja.schmidt@germail.de",
+        "bio": "Crafting Berlin's techno beats, painting city stories with spray cans, and cruising the urban sprawl.",
+        "location": "Berlin, Germany",
+        "is_blue_badge": false,
+        "joined": "2020-03-15",
+        "gender": "female",
+        "appearance": "Caucasian, short blonde pixie cut, green eyes, 5'7\"",
+        "avatar_prompt": "Photorealistic image of a Caucasian woman DJing, Berlin's iconic Fernsehturm in the background. Use an Olympus E-M1 Mark III with a 42mm lens.",
+        "banner_prompt": "High-resolution montage of Berlin's nightlife, colorful graffiti, and cycling routes. Pentax K-3 III."
+    },
+    {
+        "name": "Carlos Rivera",
+        "handle": "TangoTales",
+        "age": 35,
+        "hobbies": [
+            "tango dancing",
+            "winemaking",
+            "guitar playing"
+        ],
+        "email": "carlos.rivera@argmail.com.ar",
+        "bio": "Embracing the passion of Tango, crafting Mendoza's finest wines, and serenading Buenos Aires nights.",
+        "location": "Buenos Aires, Argentina",
+        "is_blue_badge": true,
+        "joined": "2016-07-23",
+        "gender": "male",
+        "appearance": "Hispanic, wavy brown hair, dark eyes, 5'11\"",
+        "avatar_prompt": "Photorealistic image of a Hispanic man dancing Tango with the colorful streets of La Boca in the backdrop. Use a Panasonic Lumix S5 with a 50mm lens.",
+        "banner_prompt": "High-resolution collage of Argentina's passionate dance, vineyards, and musical nights. Leica M11."
+    },
+    {
+        "name": "Igor Ivanovich",
+        "handle": "SlavicSculptor",
+        "age": 40,
+        "hobbies": [
+            "wood carving",
+            "ice fishing",
+            "folk singing"
+        ],
+        "email": "igor.ivanovich@ruspost.ru",
+        "bio": "Chiseling Russia's tales in wood, braving icy lakes, and echoing Slavic songs.",
+        "location": "Novosibirsk, Russia",
+        "is_blue_badge": false,
+        "joined": "2012-06-14",
+        "gender": "male",
+        "appearance": "Caucasian, bald, beard, blue eyes, 6'3\"",
+        "avatar_prompt": "Photorealistic image of a tall man with a chisel, Siberia's snowy forest as a backdrop. Use a Sony Alpha 1 with a 55mm lens.",
+        "banner_prompt": "High-resolution showcase of intricate wooden sculptures, frozen lakes, and traditional Russian choirs. Fujifilm X-Pro3."
+    },
+    {
+        "name": "Wai Lin",
+        "handle": "SzechuanChef",
+        "age": 32,
+        "hobbies": [
+            "Chinese cooking",
+            "tea ceremonies",
+            "calligraphy"
+        ],
+        "email": "wai.lin@chinapost.cn",
+        "bio": "Mastering Szechuan spices, brewing ancient teas, and penning Mandarin verses.",
+        "location": "Chengdu, China",
+        "is_blue_badge": true,
+        "joined": "2018-02-16",
+        "gender": "female",
+        "appearance": "East Asian, long black hair, brown eyes, 5'5\"",
+        "avatar_prompt": "Photorealistic image of an East Asian woman with a wok, against a bustling Chengdu market. Use a Nikon Z7 II with a 58mm lens.",
+        "banner_prompt": "High-resolution mix of spicy Szechuan dishes, traditional tea sets, and beautiful calligraphy scrolls. Olympus OM-D E-M10 Mark IV."
+    },
+    {
+        "name": "Kwame Acheampong",
+        "handle": "GoldCoastGuides",
+        "age": 36,
+        "hobbies": [
+            "drumming",
+            "historic site tours",
+            "bead crafting"
+        ],
+        "email": "kwame.acheampong@ghanamail.gh",
+        "bio": "Echoing Ghana's rhythms, unveiling stories of old forts, and crafting colorful beads.",
+        "location": "Accra, Ghana",
+        "is_blue_badge": false,
+        "joined": "2019-10-12",
+        "gender": "male",
+        "appearance": "African, short-cropped black hair, dark eyes, 6'0\"",
+        "avatar_prompt": "Photorealistic image of an African man with traditional drums, with Cape Coast Castle in the backdrop. Use a Canon EOS R6 with a 65mm lens.",
+        "banner_prompt": "High-resolution ensemble of Ghana's vibrant culture, historic sites, and artisan crafts. Panasonic Lumix DC-GH6."
+    },
+    {
+        "name": "Nina Vasquez",
+        "handle": "CaribbeanCanvas",
+        "age": 28,
+        "hobbies": [
+            "painting",
+            "salsa dancing",
+            "beach volleyball"
+        ],
+        "email": "nina.vasquez@prmail.pr",
+        "bio": "Painting Puerto Rico's landscapes, swaying to salsa rhythms, and spiking balls on sandy shores.",
+        "location": "San Juan, Puerto Rico",
+        "is_blue_badge": false,
+        "joined": "2020-07-04",
+        "gender": "female",
+        "appearance": "Hispanic, curly dark brown hair, hazel eyes, 5'7\"",
+        "avatar_prompt": "Photorealistic image of a Hispanic woman with a paintbrush, with El Morro fort in the backdrop. Use a Pentax K-3 III with a 53mm lens.",
+        "banner_prompt": "High-resolution medley of Puerto Rico's coastal beauty, lively dance scenes, and vibrant art canvases. Sony A7R IV."
+    },
+    {
+        "name": "Nadia Bouzid",
+        "handle": "DesertDreams",
+        "age": 33,
+        "hobbies": [
+            "desert photography",
+            "belly dancing",
+            "Moroccan cooking"
+        ],
+        "email": "nadia.bouzid@morpost.ma",
+        "bio": "Capturing the Sahara's shifting sands, moving to ancient rhythms, and delighting in Moroccan feasts.",
+        "location": "Marrakesh, Morocco",
+        "is_blue_badge": true,
+        "joined": "2013-11-05",
+        "gender": "female",
+        "appearance": "North African, dark curly hair, brown eyes, 5'6\"",
+        "avatar_prompt": "Photorealistic image of a North African woman dancing amidst Marrakesh's vibrant markets. Use a Leica Q2 with a 47mm lens.",
+        "banner_prompt": "High-resolution vista of Moroccan landscapes, sumptuous dishes, and lively bazaars. Hasselblad X1D."
+    },
+    {
+        "name": "Isak Olafsson",
+        "handle": "NordicNavigator",
+        "age": 38,
+        "hobbies": [
+            "skiing",
+            "Viking reenactments",
+            "knitting"
+        ],
+        "email": "isak.olafsson@icemail.is",
+        "bio": "Gliding down Icelandic slopes, reliving Viking sagas, and crafting Nordic knits.",
+        "location": "Reykjavik, Iceland",
+        "is_blue_badge": true,
+        "joined": "2014-06-21",
+        "gender": "male",
+        "appearance": "Nordic, blonde hair, blue eyes, 6'1\"",
+        "avatar_prompt": "Photorealistic image of a Nordic man skiing against the backdrop of geysers and icebergs. Use a Nikon Z9 with a 50mm lens.",
+        "banner_prompt": "High-resolution panorama of Iceland's geothermal wonders, Viking camps, and warm woolen patterns. Olympus OM-D E-M1X."
+    },
+    {
+        "name": "Amara Chukwu",
+        "handle": "NaijaNarratives",
+        "age": 29,
+        "hobbies": [
+            "Nollywood film critique",
+            "Afrobeat dancing",
+            "traditional weaving"
+        ],
+        "email": "amara.chukwu@ngmail.ng",
+        "bio": "Reviewing Nollywood's gems, grooving to Afrobeat hits, and weaving Nigerian tales.",
+        "location": "Lagos, Nigeria",
+        "is_blue_badge": false,
+        "joined": "2019-08-10",
+        "gender": "female",
+        "appearance": "West African, braided black hair, dark eyes, 5'7\"",
+        "avatar_prompt": "Photorealistic image of a West African woman amidst film reels, Lagos cityscape in the background. Use a Sony Alpha 7 IV with a 55mm lens.",
+        "banner_prompt": "High-resolution collage of Nigerian cinema scenes, energetic dance floors, and intricate traditional textiles. Pentax K-new."
+    },
+    {
+        "name": "Liam Nguyen",
+        "handle": "SaigonStories",
+        "age": 34,
+        "hobbies": [
+            "street food tasting",
+            "motorbike touring",
+            "Buddhist meditation"
+        ],
+        "email": "liam.nguyen@vnmail.vn",
+        "bio": "Savoring Ho Chi Minh's delicacies, zooming through Vietnam's landscapes, and seeking inner zen.",
+        "location": "Ho Chi Minh City, Vietnam",
+        "is_blue_badge": true,
+        "joined": "2017-04-16",
+        "gender": "male",
+        "appearance": "Southeast Asian, short black hair, brown eyes, 5'8\"",
+        "avatar_prompt": "Photorealistic image of a Southeast Asian man sampling street food, bustling Saigon streets behind him. Use a Fujifilm X-T4 with a 56mm lens.",
+        "banner_prompt": "High-resolution depiction of Vietnam's colorful markets, scenic roads, and tranquil pagodas. Canon EOS R5."
+    },
+    {
+        "name": "Maya Patil",
+        "handle": "MumbaiMelodies",
+        "age": 27,
+        "hobbies": [
+            "singing",
+            "yoga",
+            "Bollywood movies"
+        ],
+        "email": "maya.patil@inmail.in",
+        "bio": "Crooning to Indian ragas, finding balance in yoga, and living the Bollywood dream.",
+        "location": "Mumbai, India",
+        "is_blue_badge": true,
+        "joined": "2020-01-03",
+        "gender": "female",
+        "appearance": "South Asian, long black hair, brown eyes, 5'4\"",
+        "avatar_prompt": "Photorealistic image of a South Asian woman singing with Mumbai's skyline in the backdrop. Use a Canon EOS-1D X Mark III with a 50mm lens.",
+        "banner_prompt": "High-resolution representation of India's vibrant musical scenes, serene yoga poses, and Bollywood film posters. Nikon D6."
+    },
+    {
+        "name": "Sebastián Morales",
+        "handle": "AndeanAdventures",
+        "age": 35,
+        "hobbies": [
+            "mountain climbing",
+            "salsa dancing",
+            "photography"
+        ],
+        "email": "sebastian.morales@comail.co",
+        "bio": "Conquering Colombia's peaks, moving to salsa beats, and capturing life's moments.",
+        "location": "Bogotá, Colombia",
+        "is_blue_badge": true,
+        "joined": "2016-11-12",
+        "gender": "male",
+        "appearance": "Latino, short dark hair, brown eyes, 5'9\"",
+        "avatar_prompt": "Photorealistic image of a Latino man with climbing gear against the Andes mountains. Use a Sony A9 II with a 45mm lens.",
+        "banner_prompt": "High-resolution blend of Colombia's mountaintops, lively dance clubs, and stunning photography shots. Leica M11."
+    },
+    {
+        "name": "Ella Virtanen",
+        "handle": "FinnishForests",
+        "age": 31,
+        "hobbies": [
+            "nature hikes",
+            "sauna",
+            "wild berry picking"
+        ],
+        "email": "ella.virtanen@fimail.fi",
+        "bio": "Wandering Finland's woods, basking in sauna warmth, and tasting the wild's bounty.",
+        "location": "Helsinki, Finland",
+        "is_blue_badge": false,
+        "joined": "2015-05-14",
+        "gender": "female",
+        "appearance": "Nordic, blonde hair, green eyes, 5'6\"",
+        "avatar_prompt": "Photorealistic image of a Nordic woman in a forest, with a basket of wild berries. Use a Panasonic Lumix S1R with a 47mm lens.",
+        "banner_prompt": "High-resolution collection of Finland's lush forests, traditional saunas, and a variety of wild berries. Olympus OM-D E-M5 Mark III."
+    },
+    {
+        "name": "Ezekiel Kiprop",
+        "handle": "KenyanKilometers",
+        "age": 29,
+        "hobbies": [
+            "long-distance running",
+            "bird watching",
+            "tribal dancing"
+        ],
+        "email": "ezekiel.kiprop@kemail.ke",
+        "bio": "Racing Kenya's Rift Valley, observing the sky's flyers, and dancing to ancestral beats.",
+        "location": "Nairobi, Kenya",
+        "is_blue_badge": true,
+        "joined": "2019-08-17",
+        "gender": "male",
+        "appearance": "East African, shaved head, dark eyes, 6'2\"",
+        "avatar_prompt": "Photorealistic image of an East African man in mid-sprint, with Kenya's savannah in the backdrop. Use a Nikon Z7 with a 52mm lens.",
+        "banner_prompt": "High-resolution montage of Kenya's vast landscapes, diverse birds, and traditional dances. Sony Alpha 6600."
+    },
+    {
+        "name": "Yuki Tanaka",
+        "handle": "TokyoTechie",
+        "age": 30,
+        "hobbies": [
+            "robotics",
+            "manga",
+            "karaoke"
+        ],
+        "email": "yuki.tanaka@jpmail.jp",
+        "bio": "Crafting the future with robots, diving into manga tales, and belting out J-Pop hits.",
+        "location": "Tokyo, Japan",
+        "is_blue_badge": false,
+        "joined": "2021-03-12",
+        "gender": "male",
+        "appearance": "East Asian, short black hair, brown eyes, 5'7\"",
+        "avatar_prompt": "Photorealistic image of an East Asian man with a robot, neon-lit Tokyo streets behind. Use a Fujifilm GFX 100S with a 63mm lens.",
+        "banner_prompt": "High-resolution showcase of cutting-edge Japanese robots, colorful manga pages, and neon-lit karaoke bars. Pentax 645Z."
+    },
+    {
+        "name": "Aaliyah Al-Mansoor",
+        "handle": "DesertDunes",
+        "age": 28,
+        "hobbies": [
+            "camel racing",
+            "Arabic calligraphy",
+            "astronomy"
+        ],
+        "email": "aaliyah.almansoor@saemail.sa",
+        "bio": "Riding the Arabian sands, writing poetic verses, and stargazing the desert skies.",
+        "location": "Riyadh, Saudi Arabia",
+        "is_blue_badge": true,
+        "joined": "2020-07-19",
+        "gender": "female",
+        "appearance": "Middle Eastern, long black hair, hazel eyes, 5'5\"",
+        "avatar_prompt": "Photorealistic image of a Middle Eastern woman with a telescope, under a starry desert sky. Use a Hasselblad X1D II 50C with a 65mm lens.",
+        "banner_prompt": "High-resolution composition of Saudi Arabia's desert landscapes, elegant calligraphy, and mesmerizing constellations. Leica SL2."
+    },
+    {
+        "name": "Sasha Ivanov",
+        "handle": "SiberianSnows",
+        "age": 32,
+        "hobbies": [
+            "ice fishing",
+            "ballet",
+            "snow sculpting"
+        ],
+        "email": "sasha.ivanov@rumail.ru",
+        "bio": "Braving Siberia's chill, pirouetting to Tchaikovsky, and molding the snow's magic.",
+        "location": "Novosibirsk, Russia",
+        "is_blue_badge": false,
+        "joined": "2018-12-10",
+        "gender": "female",
+        "appearance": "Slavic, auburn hair, blue eyes, 5'6\"",
+        "avatar_prompt": "Photorealistic image of a Slavic woman in ballet pose, snow-clad Russian forests in the background. Use a Sony A1 with a 58mm lens.",
+        "banner_prompt": "High-resolution panorama of Russia's icy lakes, classic ballet theaters, and stunning snow sculptures. Nikon D850."
+    },
+    {
+        "name": "Jaden Walker",
+        "handle": "AussieOutback",
+        "age": 36,
+        "hobbies": [
+            "surfing",
+            "wildlife conservation",
+            "didgeridoo"
+        ],
+        "email": "jaden.walker@ausmail.au",
+        "bio": "Catching Gold Coast waves, safeguarding Down Under's wildlife, and resonating with indigenous sounds.",
+        "location": "Brisbane, Australia",
+        "is_blue_badge": true,
+        "joined": "2016-05-22",
+        "gender": "male",
+        "appearance": "Caucasian, sandy hair, green eyes, 6'0\"",
+        "avatar_prompt": "Photorealistic image of a Caucasian man surfing, with Australia's coastline stretching beyond. Use a Canon EOS R6 with a 50mm lens.",
+        "banner_prompt": "High-resolution array of Australia's beaches, unique animals, and Aboriginal cultural symbols. Olympus PEN-F II."
+    },
+    {
+        "name": "Zhang Wei",
+        "handle": "BeijingBuzz",
+        "age": 40,
+        "hobbies": [
+            "tea tasting",
+            "traditional painting",
+            "martial arts"
+        ],
+        "email": "zhang.wei@cnmail.cn",
+        "bio": "Savoring China's tea varieties, illustrating ancient tales, and practicing Shaolin moves.",
+        "location": "Beijing, China",
+        "is_blue_badge": true,
+        "joined": "2014-03-30",
+        "gender": "male",
+        "appearance": "East Asian, short black hair, brown eyes, 5'10\"",
+        "avatar_prompt": "Photorealistic image of an East Asian man in a martial arts stance, with the Great Wall snaking behind. Use a Panasonic Lumix GH6 with a 45mm lens.",
+        "banner_prompt": "High-resolution mixture of China's tea ceremonies, classic paintings, and martial arts displays. Fujifilm X-Pro4."
+    },
+    {
+        "name": "Chiamaka Nwosu",
+        "handle": "NigerianNarratives",
+        "age": 24,
+        "hobbies": [
+            "African drumming",
+            "fashion designing",
+            "oral storytelling"
+        ],
+        "email": "chiamaka.nwosu@ngmail.ng",
+        "bio": "Beating rhythms of Nigeria, weaving the threads of African fashion, and preserving tales passed down generations.",
+        "location": "Lagos, Nigeria",
+        "is_blue_badge": true,
+        "joined": "2022-02-18",
+        "gender": "female",
+        "appearance": "West African, braided hair, dark eyes, 5'8\"",
+        "avatar_prompt": "Photorealistic image of a West African woman playing a djembe, with colorful Lagos markets in the backdrop. Use a Canon EOS R5 with a 55mm lens.",
+        "banner_prompt": "High-resolution depiction of Nigerian drums, vibrant fabrics, and elders sharing stories. Nikon Z9."
+    },
+    {
+        "name": "Matteo Ferrari",
+        "handle": "VenetianVistas",
+        "age": 29,
+        "hobbies": [
+            "gondola rowing",
+            "wine tasting",
+            "Renaissance art appreciation"
+        ],
+        "email": "matteo.ferrari@itmail.it",
+        "bio": "Gliding through Venice's canals, sipping Italy's finest wines, and marveling at art that shaped a movement.",
+        "location": "Venice, Italy",
+        "is_blue_badge": false,
+        "joined": "2017-08-24",
+        "gender": "male",
+        "appearance": "Southern European, wavy brown hair, hazel eyes, 5'11\"",
+        "avatar_prompt": "Photorealistic image of a Southern European man steering a gondola, with historic Venetian architecture reflecting on the water. Use a Sony A7R V with a 48mm lens.",
+        "banner_prompt": "High-resolution montage of Venice's waterways, wine glasses raised in toast, and iconic Italian artworks. Leica Q2 Monochrom."
+    },
+    {
+        "name": "Tenzin Paldon",
+        "handle": "HimalayanHues",
+        "age": 33,
+        "hobbies": [
+            "Tibetan meditation",
+            "mountaineering",
+            "thangka painting"
+        ],
+        "email": "tenzin.paldon@tibmail.ti",
+        "bio": "Finding inner peace in the Himalayas, ascending earth's mighty peaks, and painting spiritual symbols.",
+        "location": "Lhasa, Tibet",
+        "is_blue_badge": true,
+        "joined": "2015-10-05",
+        "gender": "female",
+        "appearance": "Tibetan, raven-black hair, deep brown eyes, 5'5\"",
+        "avatar_prompt": "Photorealistic image of a Tibetan woman meditating, with snow-capped Himalayan ranges behind. Use a Fujifilm GFX50R with a 64mm lens.",
+        "banner_prompt": "High-resolution blend of serene Tibetan monasteries, mountain climbers in action, and intricate thangka artworks. Pentax K-3 III."
+    }
+]
