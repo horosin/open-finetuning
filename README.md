@@ -2,7 +2,7 @@
 
 This project demonstrates how to fine-tune one of OpenAI's key models to achieve JSON output formatting for generating fake identity data. By leveraging fine-tuning, we can get better steerability, shorter prompts, and therefore, reduced costs.
 
-[Detailed Article on This Project](#PLACEHOLDER-LINK-HERE) - A comprehensive guide on this project, its motivation, and methodology.
+[Detailed Article on This Project](https://horosin.com/fine-tuning-openai-gpt-35-practical-example-with-python) - A comprehensive guide on this project, its motivation, and methodology.
 
 ## Project Description
 
@@ -34,13 +34,12 @@ Follow the instructions in the article to generate the training data, fine-tune 
 
 ## Resources
 
-- [Detailed Article on This Project](#PLACEHOLDER-LINK-HERE) - A comprehensive guide on this project, its motivation, and methodology.
+- [Detailed Article on This Project](https://horosin.com/fine-tuning-openai-gpt-35-practical-example-with-python) - A comprehensive guide on this project, its motivation, and methodology.
 - [Langchain - a popular library for language processing](https://horosin.com/extracting-pdf-and-generating-json-data-with-gpts-langchain-and-nodejs)
 - [Native Function Calling Demo](https://www.linkedin.com/posts/horosin_openai-api-functioncalling-activity-7074671375990366208-72D-?utm_source=share&utm_medium=member_desktop)
 
 Certainly! Below is a list of potential files that might be found in a GitHub project related to the fine-tuning of OpenAI models for JSON output formatting. The list is based on the information given earlier, and the purpose of each file is described:
 
----
 
 ### Project Files and Their Descriptions
 
@@ -64,10 +63,6 @@ Certainly! Below is a list of potential files that might be found in a GitHub pr
 
 6. `training_examples.json`
    - **Purpose**: Output of `prepare_data.py` so you don't have to pay for generating synthetic data again.
-
----
-
-Note: This is a generic structure, and
 
 
 ## Connect
