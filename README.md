@@ -1,3 +1,5 @@
+[![cover image of the repo saying Fine-tuning OpenAI's Models for JSON Output Formatting practival example with python](finetuning-cover.png)](https://horosin.com/fine-tuning-openai-gpt-35-practical-example-with-python)
+
 # Fine-tuning OpenAI's Models for JSON Output Formatting
 
 This project demonstrates how to fine-tune one of OpenAI's key models to achieve JSON output formatting for generating fake identity data. By leveraging fine-tuning, we can get better steerability, shorter prompts, and therefore, reduced costs.
